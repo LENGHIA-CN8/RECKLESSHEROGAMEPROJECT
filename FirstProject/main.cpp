@@ -12,7 +12,7 @@
 
 using namespace std;
 using namespace sf;
-int width=600;
+int Width=600;
 int height=700;
 bool gamepause=false,gamestart=false,gameover=false;
 bool active=false;
